@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-11T18:53:11 IST" name="Suite" finished-at="2023-05-11T18:53:14 IST" duration-ms="2803">
+    <groups>
+    </groups>
+    <test started-at="2023-05-11T18:53:11 IST" name="Test" finished-at="2023-05-11T18:53:14 IST" duration-ms="2803">
+      <class name="swiggytests.filterstest">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:swiggytests.filterstest@44ebcd03]" started-at="2023-05-11T18:53:03 IST" name="Launch" finished-at="2023-05-11T18:53:11 IST" duration-ms="8169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method is-config="true" signature="x()[pri:0, instance:swiggytests.filterstest@44ebcd03]" started-at="2023-05-11T18:53:11 IST" name="x" finished-at="2023-05-11T18:53:12 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- x -->
+        <test-method signature="clicklocation()[pri:1, instance:swiggytests.filterstest@44ebcd03]" started-at="2023-05-11T18:53:12 IST" name="clicklocation" finished-at="2023-05-11T18:53:12 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicklocation -->
+        <test-method signature="clicklocationfill()[pri:2, instance:swiggytests.filterstest@44ebcd03]" started-at="2023-05-11T18:53:12 IST" name="clicklocationfill" finished-at="2023-05-11T18:53:12 IST" duration-ms="609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicklocationfill -->
+        <test-method signature="clickfilters()[pri:3, instance:swiggytests.filterstest@44ebcd03]" started-at="2023-05-11T18:53:12 IST" name="clickfilters" finished-at="2023-05-11T18:53:13 IST" duration-ms="1213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickfilters -->
+        <test-method signature="clickitems1()[pri:4, instance:swiggytests.filterstest@44ebcd03]" started-at="2023-05-11T18:53:13 IST" name="clickitems1" finished-at="2023-05-11T18:53:14 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickitems1 -->
+        <test-method signature="clickitems2()[pri:5, instance:swiggytests.filterstest@44ebcd03]" started-at="2023-05-11T18:53:14 IST" name="clickitems2" finished-at="2023-05-11T18:53:14 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickitems2 -->
+        <test-method signature="clickitems3()[pri:6, instance:swiggytests.filterstest@44ebcd03]" started-at="2023-05-11T18:53:14 IST" name="clickitems3" finished-at="2023-05-11T18:53:14 IST" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickitems3 -->
+        <test-method signature="clickitems4()[pri:7, instance:swiggytests.filterstest@44ebcd03]" started-at="2023-05-11T18:53:14 IST" name="clickitems4" finished-at="2023-05-11T18:53:14 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickitems4 -->
+        <test-method signature="clickitems5()[pri:8, instance:swiggytests.filterstest@44ebcd03]" started-at="2023-05-11T18:53:14 IST" name="clickitems5" finished-at="2023-05-11T18:53:14 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickitems5 -->
+        <test-method signature="clickitems6()[pri:9, instance:swiggytests.filterstest@44ebcd03]" started-at="2023-05-11T18:53:14 IST" name="clickitems6" finished-at="2023-05-11T18:53:14 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickitems6 -->
+        <test-method signature="clickitems7()[pri:10, instance:swiggytests.filterstest@44ebcd03]" started-at="2023-05-11T18:53:14 IST" name="clickitems7" finished-at="2023-05-11T18:53:14 IST" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickitems7 -->
+        <test-method is-config="true" signature="y()[pri:0, instance:swiggytests.filterstest@44ebcd03]" started-at="2023-05-11T18:53:14 IST" name="y" finished-at="2023-05-11T18:53:14 IST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- y -->
+      </class> <!-- swiggytests.filterstest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

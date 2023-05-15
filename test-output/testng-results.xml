@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-15T15:53:18 IST" name="Default suite" finished-at="2023-05-15T15:53:21 IST" duration-ms="3110">
+    <groups>
+    </groups>
+    <test started-at="2023-05-15T15:53:18 IST" name="Default test" finished-at="2023-05-15T15:53:21 IST" duration-ms="3110">
+      <class name="swiggytests.offerstest">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:swiggytests.offerstest@f0c8a99]" started-at="2023-05-15T15:53:07 IST" name="Launch" finished-at="2023-05-15T15:53:18 IST" duration-ms="10800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method signature="clicklocation()[pri:1, instance:swiggytests.offerstest@f0c8a99]" started-at="2023-05-15T15:53:18 IST" name="clicklocation" finished-at="2023-05-15T15:53:18 IST" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicklocation -->
+        <test-method signature="clicklocationfill()[pri:2, instance:swiggytests.offerstest@f0c8a99]" started-at="2023-05-15T15:53:18 IST" name="clicklocationfill" finished-at="2023-05-15T15:53:18 IST" duration-ms="583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicklocationfill -->
+        <test-method signature="clickoffers()[pri:3, instance:swiggytests.offerstest@f0c8a99]" started-at="2023-05-15T15:53:18 IST" name="clickoffers" finished-at="2023-05-15T15:53:20 IST" duration-ms="1671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickoffers -->
+        <test-method signature="clickpayment()[pri:4, instance:swiggytests.offerstest@f0c8a99]" started-at="2023-05-15T15:53:20 IST" name="clickpayment" finished-at="2023-05-15T15:53:21 IST" duration-ms="704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickpayment -->
+        <test-method signature="clickoffer1()[pri:5, instance:swiggytests.offerstest@f0c8a99]" started-at="2023-05-15T15:53:21 IST" name="clickoffer1" finished-at="2023-05-15T15:53:21 IST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickoffer1 -->
+      </class> <!-- swiggytests.offerstest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
