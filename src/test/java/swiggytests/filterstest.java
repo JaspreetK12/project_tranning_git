@@ -29,7 +29,7 @@ public class filterstest extends swiggybasefile {
 	@BeforeTest
 	public void x() {
 //		extent=new ExtentReports(System.getProperty("user.dir")+"/test-output/ExtentReport.html",true);	
-		extent=new ExtentReports("C:\\Users\\jaskaur\\.jenkins\\workspace\\Filter_swigy\\filtersExtentReport.html",true);
+		extent=new ExtentReports("D:\\Eclipe IDe\\projecttrainig\\extent_report\\filtersExtentReport.html",true);
 	}
 
 	@AfterTest
